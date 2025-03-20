@@ -1,4 +1,4 @@
-ouasmine sara---
+---
 jupytext:
   cell_metadata_filter: -all
   formats: md:myst
@@ -14,7 +14,7 @@ kernelspec:
 ---
 
 # Les listes
-
+Ouasmine sara
 ```{admonition} Définition
 
 Une liste est une collection ordonnée de valeurs.
